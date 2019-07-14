@@ -1,0 +1,21 @@
+<data>
+    <vectorDimensions>2</vectorDimensions>
+    <models count="2">
+        <model stateCount="5" name="tezak">
+            <vector>100,80</vector>
+            <vector>80,25</vector>
+            <vector>135,90</vector>
+            <vector>70,20</vector>
+            <vector>110,50</vector>
+            <variance>10</variance>
+        </model>
+        <model stateCount="5" name="zivot">
+            <vector>135,90</vector>
+            <vector>85,35</vector>
+            <vector>120,75</vector>
+            <vector>65,22</vector>
+            <vector>100,80</vector>
+            <variance>1</variance>
+        </model>
+    </models>
+</data>

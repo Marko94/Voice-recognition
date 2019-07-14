@@ -1,0 +1,22 @@
+<data>
+    <vectorDimensions>2</vectorDimensions>
+
+    <searchVectors stateCount="5">
+       <searchVector stateCount="5">
+            <vector>100,80</vector>
+	        <vector>80,25</vector>
+	        <vector>135,90</vector>
+	        <vector>70,20</vector>
+	        <vector>110,50</vector>
+	        <variance>1</variance>
+       </searchVector>
+       <searchVector stateCount="5">
+            <vector>100,80</vector>
+	        <vector>80,25</vector>
+	        <vector>135,90</vector>
+	        <vector>70,20</vector>
+	        <vector>110,50</vector>
+	        <variance>1</variance>
+       </searchVector>
+    </searchVectors>
+</data>
